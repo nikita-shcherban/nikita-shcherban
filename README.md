@@ -3,7 +3,7 @@
 Junior Fullstack / Frontend Developer | React | Next.js | TypeScript
 Fullstack developer who completed training at GoIT, with practical experience in JavaScript, TypeScript, React, Next.js, Node.js, and Zustand. Experienced in creating single-page applications (SPA), integrating REST APIs, implementing responsive/adaptive UI components, and managing state with TanStack Query and Zustand. Experience working with Git, performance optimization, and adhering to best practices in web development. Strong problem-solving skills and a proactive approach to developing web solutions.
 
-🧰 Tech Stack
+🧰 Tech Stack:
 JavaScript | TypeScript | React | Next.js | Node.js | Zustand | TanStack Query | HTML5 / CSS3
 
 💻 Featured Projects
