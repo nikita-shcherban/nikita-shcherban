@@ -18,7 +18,3 @@ JavaScript | TypeScript | React | Next.js | Node.js | Zustand | TanStack Query |
 
 📫 How to reach me:
 [Djinni](https://djinni.co/q/61941b8a3f/) | [Email](mailto:cruizsports@gmail.com)
-
-📊 GitHub Stats
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikita-shcherban&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-shcherban&layout=compact&theme=radial)
