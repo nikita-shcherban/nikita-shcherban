@@ -17,4 +17,4 @@ JavaScript | TypeScript | React | Next.js | Node.js | Zustand | TanStack Query |
 ![Russian](https://img.shields.io/badge/Russian-C2-lightgrey?style=flat-square)
 
 📫 How to reach me:
-[Djinni](https://djinni.co/q/61941b8a3f/) | [Email](mailto:cruizsports@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/m-shcherban/) | [Email](mailto:cruizsports@gmail.com)
